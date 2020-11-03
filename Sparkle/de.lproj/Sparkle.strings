@@ -6,7 +6,7 @@
 
 "Use Finder to copy %1$@ to the Applications folder, relaunch it from there, and try again." = "Kopiere %1$@ in den Programmeordner, starte es von dort aus und versuche es erneut zu aktualisieren.";
 
-"Quit %1$@, move it into your Applications folder, relaunch it from there and try again." = "Beenden Sie „%1$@“, bewegen Sie es in den Ordner „Programme“, starten Sie das Programm von dort erneut und versuchen Sie es noch einmal.";
+"Quit %1$@, move it into your Applications folder, relaunch it from there and try again." = "Beende „%1$@“, bewege es in den Ordner „Programme“, starte das Programm von dort erneut und versuche es noch einmal.";
 
 "%1$@ can’t be updated if it’s running from the location it was downloaded to." = "„%1$@“ kann nicht aktualisiert werden, wenn das Programm von dem Ort ausgeführt wird, an den es heruntergeladen wurde.";
 
